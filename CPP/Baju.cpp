@@ -1,5 +1,7 @@
 #include "Aksesoris.cpp"
 
+using namespace std;
+
 class Baju : public Aksesoris {
 private:
     string untuk;
