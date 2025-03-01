@@ -1,0 +1,9 @@
+Baju_Anjing_Premium
+200000
+5
+Pakaian
+Sutra
+Hitam
+Anjing
+L
+LuxuryPet
